@@ -28,7 +28,7 @@ URL API: http://localhost:3000/files \
 **Запуск проекта:**
 1. Произвести клонирование проекта с репозитория (https://github.com/chuck6a6ka/satel_test.git)
 2. Установить все зависимости (в папке backend запустить команду npm install)
-3. Запустить проект (в папке backend запустить команду npm start)
+3. Запустить проект (в папке backend запустить команду npm run start)
 
 **Требования**
 node v19.8.1
